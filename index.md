@@ -4,10 +4,10 @@ You can use the [editor on GitHub](https://github.com/nicole-christoff/IKTvNOS.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<h2 id="lecture-content">Lecture Slides and Recordings</h2>
+<h2 id="lecture-content">Лекционен материал</h2>
             <br/>
             <ul>
-                <li>Week 1 - <a href="file/1.Intro.pdf"> Тема 1: .... <a> </li>
+                <li>Седмица 1 - <a href="file/M1.2.Интелигентен агент.pptx.pdf"> Тема 1: .... <a> </li>
 				
             </ul>
 
