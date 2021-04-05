@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Седмица 1: [Тема 1...](https://github.com/nicole-christoff/IKTvNOS.github.io/blob/main/file/M1.2.%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%82%D0%B5%D0%BD%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82.pptx.pdf)
 
 <h2 id="lecture-content">Упражнения</h2>
-Упражнение 1: [Nasoki](https://youtu.be/XAWk7SxZKvU/)
-Упражнение 2: [Насоки](https://youtu.be/DRehsItVycA/)
-Упражнение 3: [Насоки](https://youtu.be/tGkSgKW_Msk/)
+* Упражнение 1: [Nasoki](https://youtu.be/XAWk7SxZKvU/)
+* Упражнение 2: [Насоки](https://youtu.be/DRehsItVycA/)
+* Упражнение 3: [Насоки](https://youtu.be/tGkSgKW_Msk/)
 
 ### Контакти
 
