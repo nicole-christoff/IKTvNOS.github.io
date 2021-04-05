@@ -11,4 +11,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Контакти
 
-Можете да се свържете с лабораторията [Telilab](http://telilab.tu-sofia.bg/) или [Nicole Christoff](...)
+Можете да се свържете с лабораторията [Telilab](http://telilab.tu-sofia.bg/) или [Nicole Christoff](mailto:nicole.christoff@tu-sofia.bg)
