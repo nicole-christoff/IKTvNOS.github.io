@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <h2 id="lecture-content">Лекционен материал</h2>
 
-Седмица 1: [Тема 1...](file/M1.2.Интелигентен агент.pptx.pdf)
+Седмица 1: [Тема 1...](<a href="file/M1.2.Интелигентен агент.pptx.pdf">)
 
 ### Markdown
 
