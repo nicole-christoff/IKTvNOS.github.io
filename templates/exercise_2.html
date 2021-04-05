@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+{% block content %}
+<h1> Класификация на числа </h1> 
+<pre>
+ Класификаторът, представляващ конволюционна невронна мрежа, ще бъде обучен с изображения от базата данни MNIST. 
+ Част от обучителната извадка ще бъде визуализирана след натискането на бутона, когато и самият процес започне.
+</pre>
+
+
+
+<form method="post">
+    <input type="submit" class="btn btn-primary" value="Обучи класификатора">
+</form>
+
+{% if showAnswer %}
+    <h1>Резултат</h1> 
+    {{ answer|safe }}
+{% endif %}
+
+{% endblock%}
