@@ -10,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <h2 id="lecture-content">Упражнения</h2>
 Упражнение 1: [Насоки](https://youtu.be/XAWk7SxZKvU)
-
-
+Упражнение 2: [Насоки](https://youtu.be/DRehsItVycA)
+Упражнение 3: [Насоки](https://youtu.be/tGkSgKW_Msk)
 
 ### Контакти
 
